@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">X.HDLENS2014</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">X.HDLENS2015</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">X.HDLENS2016</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">X.HDLENS2017</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">X.HDLENS2018</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">X.HDLENS2019</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">X.HDLENS2020</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">X.HDLENS2021</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">X.HDLENS2022</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">X.HDLENS2023</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">X.HDLENS2024</data>
+    </node>
+    <edge source="n4" target="n5">
+      <data key="e_weight">0.763912761444146</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_weight">0.686267829186951</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">0.781135053554825</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_weight">0.75303008906873</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_weight">0.714531814066846</data>
+    </edge>
+    <edge source="n3" target="n8">
+      <data key="e_weight">0.746829517833267</data>
+    </edge>
+    <edge source="n6" target="n8">
+      <data key="e_weight">0.794409512611566</data>
+    </edge>
+    <edge source="n7" target="n8">
+      <data key="e_weight">0.817574658162307</data>
+    </edge>
+    <edge source="n8" target="n9">
+      <data key="e_weight">0.809652040347193</data>
+    </edge>
+    <edge source="n8" target="n10">
+      <data key="e_weight">0.805757224838334</data>
+    </edge>
+  </graph>
+</graphml>

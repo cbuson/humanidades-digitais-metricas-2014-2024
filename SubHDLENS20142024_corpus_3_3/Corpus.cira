@@ -1,0 +1,16 @@
+[corpus]
+type = corpus
+originalpath = C:\Users\user\OneDrive\Escritorio\PROYECTOS\humanidades digitais METRICAS\HDLENS2014-2024.txt
+encoding = utf-8
+corpus_name = SubHDLENS20142024_corpus_3
+pathout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\humanidades digitais METRICAS\HDLENS2014-2024_corpus_3\SubHDLENS20142024_corpus_3_3
+meta = ['*HDLENS2019']
+uuid = 11bb1bf2-3243-4cc8-ad64-080e67a604e5
+ira = C:\Users\user\OneDrive\Escritorio\PROYECTOS\humanidades digitais METRICAS\HDLENS2014-2024_corpus_3\SubHDLENS20142024_corpus_3_3\Corpus.cira
+date = Fri Jan  3 15:52:33 2025
+time = 0h 0m 0s
+ucinb = 1
+ucenb = 313
+occurrences = 11181
+formesnb = 2747
+hapax = 1527 - 55.59 % des formes - 13.66 % des occurrences

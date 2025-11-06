@@ -1,0 +1,24 @@
+[alceste]
+type = alceste
+lem = 1
+mincl = 0
+nbforme_uce = 0
+max_actives = 30000
+tailleuc1 = 20
+nbcl = 4
+tailleuc2 = 22
+classif_mode = 1
+minforme = 2
+expressions = 1
+nbcl_p1 = 18
+svdmethod = irlba
+mode.patate = 0
+corpus = 73f024f3-140b-4efa-a6c5-cd95a87045ff
+pathout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\humanidades digitais METRICAS\HDLENS2014-2024_corpus_3\HDLENS2014-2024_alceste_5
+uuid = 23e34c5b-54c8-4416-9cad-cb91533331e8
+name = HDLENS2014-2024_alceste_5
+eff_min_forme = 3
+nbactives = 3437
+clnb = 3
+time = 0h 1m 49s
+ira = C:\Users\user\OneDrive\Escritorio\PROYECTOS\humanidades digitais METRICAS\HDLENS2014-2024_corpus_3\HDLENS2014-2024_alceste_5\Analyse.ira
